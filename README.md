@@ -48,6 +48,9 @@ ReduceLROnPlateau
 ModelCheckpoint
 
 ## Results
+Best Performing Model: DenseNet  
+Reason: Higher feature reuse and deeper architecture  
+Observation: Transfer learning models outperformed custom CNN.
 ### Final Performance (Stage-1)
 Training Accuracy: ~96%+
 Validation Accuracy: ~96%+
