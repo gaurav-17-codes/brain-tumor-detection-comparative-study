@@ -49,7 +49,7 @@ ReduceLROnPlateau
 ModelCheckpoint
 
 ## Results
-Best Performing Model: DenseNet  
+Best Performing Model: ResNet 50
 Reason: Higher feature reuse and deeper architecture  
 Observation: Transfer learning models outperformed custom CNN.
 ### Final Performance (Stage-1)
