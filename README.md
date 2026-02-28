@@ -22,6 +22,7 @@ Training images organized class-wise
 Separate testing directory
 4 tumor categories
 RGB MRI images
+link : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/versions/1
 
 ## Model Architecture (Stage-1)
 We used Transfer Learning with:
